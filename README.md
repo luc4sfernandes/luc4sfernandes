@@ -1,6 +1,6 @@
 # Lucas Fernandes
 
-**Desenvolvedor FullStack**
+**`Desenvolvedor FullStack`**
 
 Estudante de Análise e Desenvolvimento de Sistemas — Estácio de Sá (EAD, RJ). Trabalho com aplicações web, automação e soluções práticas orientadas a resultados.
 
@@ -29,32 +29,9 @@ Profissional em formação com foco em entrega de software: arquiteturas simples
 
 ---
 
-## Projetos em destaque
-
-- **Sistema de Gerenciamento** — backend em C/Python, API REST e banco de dados SQL. `github.com/luc4sfernandes/gestao`
-- **Portfólio Web** — site responsivo com HTML/CSS/JS e integração com GitHub Pages. `github.com/luc4sfernandes/portfolio`
-- **Automação de Rotinas** — scripts em Python para automação de tarefas e ETL. `github.com/luc4sfernandes/automation`
-
-*(Altere os links dos repositórios conforme necessário.)*
-
----
-
-## Estatísticas
-
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
----
-
 ## Contato
 
 - GitHub: https://github.com/luc4sfernandes
 - Instagram: https://www.instagram.com/dev.luc4s?utm_source=qr&igsh=MTA4YWZqYWwyc2IwNQ==
 
 ---
-
-## Observações
-
-- README formatado para GitHub. Ajuste os links de repositórios em **Projetos em destaque** para apontar aos seus repositórios reais.

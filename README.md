@@ -56,8 +56,6 @@ Profissional em formação com foco em entregar software útil: código limpo, i
   </a>
 </p>
 
-> Observação: mantive apenas os widgets de estatísticas e os badges. Removi cards redundantes ou geradores de selo com letra/classificação circular para evitar elementos repetidos e poluição visual.
-
 ---
 
 ## Contato

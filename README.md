@@ -2,13 +2,21 @@
 
 **Desenvolvedor FullStack**
 
-Estudante de Análise e Desenvolvimento de Sistemas — Estácio de Sá (EAD, RJ). Trabalho com aplicações web, automação e soluções práticas orientadas a resultados.
+Estudante de Análise e Desenvolvimento de Sistemas — Estácio de Sá (EAD, RJ).
 
 ---
 
 ## Sobre
 
-Profissional em formação com foco em entrega de software: arquiteturas simples, código limpo e integração com banco de dados. Experiência em projetos pessoais e contribuições em repositórios públicos. Prioridade em resolver problemas reais com soluções eficientes.
+Profissional em formação com foco em soluções práticas para web e automação. Entrego código limpo, integrações com banco de dados e APIs, e priorizo usabilidade e performance.
+
+---
+
+## Destaques rápidos
+
+- Linguagens principais: C, Python, SQL, JavaScript
+- Experiência em: desenvolvimento web (HTML/CSS/JS), automação e scripts backend
+- Fluxo de trabalho: Git, versionamento, CI simples
 
 ---
 
@@ -29,21 +37,15 @@ Profissional em formação com foco em entrega de software: arquiteturas simples
 
 ---
 
-## Projetos em destaque
-
-- **Sistema de Gerenciamento** — backend em C/Python, API REST e banco de dados SQL. `github.com/luc4sfernandes/gestao`
-- **Portfólio Web** — site responsivo com HTML/CSS/JS e integração com GitHub Pages. `github.com/luc4sfernandes/portfolio`
-- **Automação de Rotinas** — scripts em Python para automação de tarefas e ETL. `github.com/luc4sfernandes/automation`
-
-*(Altere os links dos repositórios conforme necessário.)*
-
----
-
-## Estatísticas
+## Métricas do GitHub
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <a href="https://github.com/luc4sfernandes?tab=repositories&sort=stargazers">
+    <img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/luc4sfernandes?color=55960c&style=for-the-badge&label=estrelas" />
+  </a>
+  <a href="https://github.com/luc4sfernandes?tab=followers">
+    <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/luc4sfernandes?color=236ad3&style=for-the-badge&label=seguidores" />
+  </a>
 </p>
 
 ---
@@ -57,4 +59,4 @@ Profissional em formação com foco em entrega de software: arquiteturas simples
 
 ## Observações
 
-- README formatado para GitHub. Ajuste os links de repositórios em **Projetos em destaque** para apontar aos seus repositórios reais.
+- Este README está otimizado para exibição no perfil GitHub; remova ou ajuste badges se desejar um layout mais minimalista.

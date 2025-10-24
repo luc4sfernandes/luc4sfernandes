@@ -65,12 +65,6 @@ Profissional em formação com foco em entregar software útil: código limpo, i
 
 ---
 
-### Notas técnicas
-
-- As imagens de estatísticas usam o serviço `github-readme-stats`. Caso apareça algum elemento gráfico indesejado (por exemplo, um selo circular com letra), remova/ajuste parâmetros do serviço ou substitua pela URL que preferir.
-- Se quiser, substitua os links dos repositórios diretamente no seu perfil para apontarem para trabalhos que deseja destacar.
-
-
 ## Contato
 
 - GitHub: https://github.com/luc4sfernandes

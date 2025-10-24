@@ -62,5 +62,6 @@ Profissional em formação com foco em entregar software útil: código limpo, i
 
 - GitHub: https://github.com/luc4sfernandes  
 - Instagram: https://www.instagram.com/dev.luc4s?utm_source=qr&igsh=MTA4YWZqYWwyc2IwNQ==
+- Email: lucasfernandesdacunhanovo@gmail.com
 
 ---

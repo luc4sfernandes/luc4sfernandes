@@ -1,6 +1,6 @@
 # Lucas Fernandes
 
-**Desenvolvedor FullStack**
+**Desenvolvedor Backend**
 
 Estudante de Análise e Desenvolvimento de Sistemas — Estácio de Sá (EAD, RJ). Trabalho com aplicações web, automação e soluções práticas orientadas a resultados.
 
@@ -8,16 +8,16 @@ Estudante de Análise e Desenvolvimento de Sistemas — Estácio de Sá (EAD, RJ
 
 ## Sobre
 
-Profissional em formação com foco em entregar software útil: código limpo, integrações com bancos de dados e APIs, e soluções orientadas a desempenho e manutenção. Projetos pessoais e contribuições públicas com ênfase em resolver problemas reais.
+Profissional em formação focado em entregar software útil e sustentável: código limpo, integrações confiáveis com bancos de dados e APIs, e soluções projetadas para desempenho e manutenibilidade. Desenvolvo projetos pessoais e contribuo publicamente com ênfase em resolver problemas reais e gerar valor.
 
 ---
 
 ## Destaques rápidos
 
-- Linguagens principais: C, Python, SQL, JavaScript  
-- Desenvolvimento web: HTML, CSS, JavaScript (Front-end)  
-- Backend e automação: scripts Python, integração com banco de dados SQL  
-- Fluxo: Git, versionamento, testes básicos
+- Linguagens principais: C, Python, SQL (PostgreSQL)  
+- APIs e serviços: desenvolvimento e consumo de APIs RESTful  
+- Backend e automação: scripts em Python; integração e modelagem com PostgreSQL  
+- Fluxo de trabalho: Git, versionamento, testes automatizados básicos
 
 ---
 
@@ -26,10 +26,7 @@ Profissional em formação com foco em entregar software útil: código limpo, i
 <p>
   <img align="left" alt="C" title="C" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="left" alt="Python" title="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="HTML5" title="HTML5" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS3" title="CSS3" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="MySQL" title="SQL" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="Git" title="Git" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
@@ -40,14 +37,11 @@ Profissional em formação com foco em entregar software útil: código limpo, i
 ## Estatísticas (GitHub)
 
 <p>
-  <!-- Estatísticas principais -->
   <img align="left" alt="GitHub Stats" height="180" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <!-- Linguagens -->
   <img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 <p>
-  <!-- Badges de estrelas/seguidores -->
   <a href="https://github.com/luc4sfernandes?tab=repositories&sort=stargazers">
     <img alt="Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luc4sfernandes?color=55960c&style=for-the-badge&label=estrelas" />
   </a>
@@ -61,7 +55,7 @@ Profissional em formação com foco em entregar software útil: código limpo, i
 ## Contato
 
 - GitHub: https://github.com/luc4sfernandes  
-- Instagram: https://www.instagram.com/dev.luc4s?utm_source=qr&igsh=MTA4YWZqYWwyc2IwNQ==
+- Instagram: https://www.instagram.com/dev.luc4s  
 - Email: lucasfernandesdacunhanovo@gmail.com
 
 ---

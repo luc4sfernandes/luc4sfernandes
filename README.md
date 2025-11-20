@@ -1,61 +1,64 @@
-# Lucas Fernandes
+<div align="center">
 
-**Desenvolvedor Backend**
+  # Olá, eu sou Lucas Fernandes! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas — Estácio de Sá (EAD, RJ). Trabalho com aplicações web, automação e soluções práticas orientadas a resultados.
-
----
-
-## Sobre
-
-Profissional em formação focado em entregar software útil e sustentável: código limpo, integrações confiáveis com bancos de dados e APIs, e soluções projetadas para desempenho e manutenibilidade. Desenvolvo projetos pessoais e contribuo publicamente com ênfase em resolver problemas reais e gerar valor.
-
----
-
-## Destaques rápidos
-
-- Linguagens principais: C, Python, SQL (PostgreSQL)  
-- APIs e serviços: desenvolvimento e consumo de APIs RESTful  
-- Backend e automação: scripts em Python; integração e modelagem com PostgreSQL  
-- Fluxo de trabalho: Git, versionamento, testes automatizados básicos
-
----
-
-## Tecnologias
-
-<p>
-  <img align="left" alt="C" title="C" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="left" alt="Python" title="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="Git" title="Git" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
-
-<br /><br />
-
----
-
-## Estatísticas (GitHub)
-
-<p>
-  <img align="left" alt="GitHub Stats" height="180" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
-<p>
-  <a href="https://github.com/luc4sfernandes?tab=repositories&sort=stargazers">
-    <img alt="Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luc4sfernandes?color=55960c&style=for-the-badge&label=estrelas" />
+  ### Desenvolvedor Backend | C/C++ & Python
+  
+  <p>
+    <em>Estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá.</em>
+  </p>
+  
+  <a href="https://judge.beecrowd.com/pt/profile/1196989">
+    <img src="https://img.shields.io/badge/Beecrowd-Perfil_Solver-blue?style=for-the-badge&logo=cplusplus" alt="Beecrowd Profile" />
   </a>
-  <a href="https://github.com/luc4sfernandes?tab=followers">
-    <img alt="Seguidores GitHub" src="https://custom-icon-badges.demolab.com/github/followers/luc4sfernandes?color=236ad3&style=for-the-badge&label=seguidores" />
+  <a href="mailto:lucasfernandesdacunhanovo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Entre_em_Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://www.instagram.com/dev.luc4s">
+    <img src="https://img.shields.io/badge/Instagram-@dev.luc4s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+</div>
+
+<br />
 
 ---
 
-## Contato
+### 👨‍💻 Sobre Mim
 
-- GitHub: https://github.com/luc4sfernandes  
-- Instagram: https://www.instagram.com/dev.luc4s  
-- Email: lucasfernandesdacunhanovo@gmail.com
+Sou um profissional em formação focado na engenharia de software robusta e performática. Minha paixão está em **resolver problemas complexos** e criar sistemas eficientes.
+
+* 🔭 **Foco atual:** Desenvolvimento de algoritmos de alta performance e Automação.
+* ♟️ **Projeto destaque:** Criando a **[Minerva Chess Engine](link-do-seu-repositorio-minerva-aqui)**, uma engine de xadrez do zero focada em Inteligência Artificial e otimização em C++.
+* 🌱 **Estudando:** Estruturas de dados avançadas, Otimização de memória e Arquitetura de Software.
 
 ---
+
+### 🛠️ Arsenal Tecnológico
+
+<div align="center">
+
+| **Linguagens** | **Banco de Dados** | **Ferramentas & DevOps** |
+| :---: | :---: | :---: |
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" /> |
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" alt="Estatísticas do Lucas" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Linguagens Mais Usadas" />
+  </p>
+</div>
+
+<br />
+
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=luc4sfernandes&style=flat-square&color=blue" alt="Profile Views" />
+</div>

@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   <h1>Olá, eu sou Lucas Fernandes!</h1>
 
@@ -16,18 +15,14 @@
   <br><br>
   🔭 <strong>Projeto xodó:</strong> Desenvolvendo a <a href="https://github.com/luc4sfernandes/Minerva"><strong>Minerva Chess Engine</strong></a>, uma IA de xadrez feita em Python usando <strong>Cython</strong> para alta performance.
   </p>
-
 </div>
 
 ---
 
 <div align="center">
   <h3>🛠️ Stack Principal & Ferramentas</h3>
-
   <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
-
   <br/>
-
   <h3>🌱 Atualmente Estudando</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Aprendendo SQL" />
   <p><em>Aprofundando em Banco de Dados (SQL) e Otimização.</em></p>
@@ -38,12 +33,13 @@
 ### ⚡ Estatísticas
 
 <div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=true" alt="Estatísticas do Lucas" />
-  </p>
-  <p>
-    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&theme=dracula&layout=compact&langs_count=6&hide_border=true&exclude_repo=minerva-chess-engine" alt="Linguagens Mais Usadas" />
-  </p>
+  <a href="https://github.com/luc4sfernandes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  
+  <a href="https://github.com/luc4sfernandes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true"/>
+  </a>
 </div>
 
 ---
@@ -61,6 +57,5 @@
   </a>
 
   <br /><br />
-
   <img src="https://komarev.com/ghpvc/?username=luc4sfernandes&style=flat-square&color=BD93F9" alt="Profile Views" />
 </div>

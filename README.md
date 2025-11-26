@@ -30,20 +30,6 @@
 
 ---
 
-### ⚡ Estatísticas
-
-<div align="center">
-  <a href="https://github.com/luc4sfernandes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  
-  <a href="https://github.com/luc4sfernandes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <h3>🤝 Conecte-se comigo</h3>
   <a href="https://judge.beecrowd.com/pt/profile/1196989" target="_blank">

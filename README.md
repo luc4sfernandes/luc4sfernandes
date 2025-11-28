@@ -1,27 +1,27 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>Olá, eu sou Lucas Fernandes!</h1>
+  <h1>Hello, I'm Lucas Fernandes!</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python+%26+C;Focado+em+IA+e+Performance;Estudante+de+An%C3%A1lise+de+Sistemas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Python+%26+C+Developer;Focused+on+AI+and+Performance;Systems+Analysis+Student" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <em>Explorando o desenvolvimento de software de alta performance e Inteligência Artificial.</em>
+  <em>Exploring high-performance software development and Artificial Intelligence.</em>
 </p>
 
 ---
 
-## 🚀 Perfil & Filosofia
+## 🚀 Profile & Philosophy
 
-Sou uma pessoa que **ama aprender** e busca sempre estar **atualizado** e entender as **novas tecnologias** do mercado.
+I am a person who **loves to learn** and always seeks to be **up-to-date** and understand **new technologies** in the market.
 
-Meu principal objetivo é desenvolver **ferramentas de qualidade e úteis** que possam trazer valor e facilidade para a sociedade, transformando o conhecimento em soluções práticas. Acredito que a busca contínua por inovação é a chave para o desenvolvimento de projetos impactantes.
+My main goal is to develop **quality and useful tools** that can bring value and ease to society, transforming knowledge into practical solutions. I believe that the continuous pursuit of innovation is the key to developing impactful projects.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/luc4sfernandes">
@@ -36,15 +36,15 @@ Meu principal objetivo é desenvolver **ferramentas de qualidade e úteis** que 
 
 ---
 
-## 🛠️ Stack Principal & Ferramentas
+## 🛠️ Main Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode&theme=dark" alt="My Main Stack" />
 </div>
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 🤝 Connect with Me
 
 <div align="center">
   <a href="https://judge.beecrowd.com/pt/profile/1196989" target="_blank">
@@ -57,7 +57,7 @@ Meu principal objetivo é desenvolver **ferramentas de qualidade e úteis** que 
     <img src="https://img.shields.io/badge/LeetCode-turbosauroo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
   <a href="mailto:lucasfernandesdacunhanovo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-lucasfernandesdacunhanovo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/dev.luc4s" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@dev.luc4s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />

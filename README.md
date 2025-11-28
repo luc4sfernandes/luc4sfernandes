@@ -56,6 +56,9 @@ My main goal is to develop **quality and useful tools** that can bring value and
   <a href="https://leetcode.com/u/turbosauroo/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-turbosauroo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
+  <a href="https://dev.to/luc4sfernandes" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-luc4sfernandes-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Profile" />
+  </a>
   <a href="mailto:lucasfernandesdacunhanovo@gmail.com">
     <img src="https://img.shields.io/badge/Email-lucasfernandesdacunhanovo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>

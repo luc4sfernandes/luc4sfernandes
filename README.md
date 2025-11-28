@@ -3,7 +3,7 @@
   <h1>Olá, eu sou Lucas Fernandes!</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python%2C+C+%26+Java;Focado+em+IA+e+Performance;Estudante+de+An%C3%A1lise+de+Sistemas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python+%26+C;Focado+em+IA+e+Performance;Estudante+de+An%C3%A1lise+de+Sistemas" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@ Meu principal objetivo é desenvolver **ferramentas de qualidade e úteis** que 
 ## 🛠️ Stack Principal & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,postgres,mysql,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
 </div>
 
 ---

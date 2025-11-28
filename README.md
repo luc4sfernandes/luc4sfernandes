@@ -1,17 +1,3 @@
-Entendido! Fiz as alterações conforme o seu pedido:
-
-Removi o texto explicativo sobre estar "estudando Java e SQL" (a seção "Atualmente Estudando").
-
-Mantive apenas os ícones das tecnologias na stack principal.
-
-Adicionei os gráficos de estatísticas do GitHub e as linguagens mais usadas (Isso vai dar um visual muito profissional ao seu perfil!).
-
-Mantive a filosofia sobre criar ferramentas úteis e estar atualizado.
-
-Aqui está o código completo para o seu README:
-
-Markdown
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   <h1>Olá, eu sou Lucas Fernandes!</h1>

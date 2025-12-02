@@ -15,9 +15,31 @@
 
 ## 🚀 Profile & Philosophy
 
-I am a person who **loves to learn** and always seeks to be **up-to-date** and understand **new technologies** in the market.
+I am a developer driven by a passion for **learning** and staying at the forefront of **new technologies**. My approach combines technical curiosity with a practical mindset.
 
-My main goal is to develop **quality and useful tools** that can bring value and ease to society, transforming knowledge into practical solutions. I believe that the continuous pursuit of innovation is the key to developing impactful projects.
+My main goal is to engineer **quality tools** that deliver real value to society. I focus heavily on **Performance** and **AI**, believing that the continuous pursuit of innovation and optimization is key to developing impactful solutions.
+
+---
+
+## ♟️ Project Spotlight
+
+### [Minerva](https://github.com/luc4sfernandes/Minerva)
+> *An ambitious Chess Engine in early development.*
+
+Minerva represents my dedication to understanding complex algorithms and system performance. It is a testament to my interest in:
+* **Algorithmic Optimization**
+* **Game Theory & Logic**
+* **High-Performance Computing**
+
+---
+
+## 🛠️ Main Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode&theme=dark" alt="My Main Stack" />
+</div>
+
+<br>
 
 ---
 
@@ -30,22 +52,6 @@ My main goal is to develop **quality and useful tools** that can bring value and
   <a href="https://github.com/luc4sfernandes">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Lucas Top Langs" height="150" />
   </a>
-</div>
-
-<br>
-
----
-
-## 🛠️ Main Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode&theme=dark" alt="My Main Stack" />
-</div>
-
-## 🌱 I'm currently learning
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres&theme=dark" alt="Learning Stack" />
 </div>
 
 ---

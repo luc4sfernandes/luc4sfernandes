@@ -43,14 +43,29 @@ Minerva represents my dedication to understanding complex algorithms and system 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Analytics & Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=luc4sfernandes&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="luc4sfernandes trophies" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/luc4sfernandes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Lucas Stats" height="150" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Lucas Stats" height="180" />
   </a>
   <a href="https://github.com/luc4sfernandes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Lucas Top Langs" height="150" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luc4sfernandes&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Streak" height="180" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/luc4sfernandes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css" alt="Lucas Top Langs" />
   </a>
 </div>
 

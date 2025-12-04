@@ -66,7 +66,7 @@ Minerva represents my dedication to understanding complex algorithms and system 
     <img src="https://img.shields.io/badge/Dev.to-luc4sfernandes-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Profile" />
   </a>
   <a href="mailto:devlucasfer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lucasfernandesdacunhanovo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-devlucasfer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/dev.luc4s" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@dev.luc4s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />

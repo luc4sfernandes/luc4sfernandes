@@ -13,7 +13,7 @@
 
 ## 🚀 Profile & Philosophy
 
-I am a developer focused on building **scalable AI solutions** and **low-latency systems**. My approach combines the efficiency of **C** with the flexibility of **Python** and its data ecosystem.
+I am a developer focused on building **scalable AI solutions** and **low-latency systems**. My approach combines the efficiency of **C** with the flexibility of **Python**.
 
 My goal is to solve complex problems through **algorithmic optimization**, moving beyond simple implementation to understand the *why* and *how* of high-performance computing.
 
@@ -22,7 +22,7 @@ My goal is to solve complex problems through **algorithmic optimization**, movin
 ## 🛠️ Main Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,numpy,pandas,pytorch,docker,git,linux,vscode&theme=dark" alt="My Main Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,git,linux,neovim&theme=dark" alt="My Main Stack" />
 </div>
 <br>
 

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave">
   <h1>Hello, I'm Lucas Fernandes!</h1>
-  
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Python+%26+C+Developer;Focused+on+AI+and+Performance;Systems+Analysis+Student" alt="Typing SVG" />
 </div>
 
@@ -22,13 +22,18 @@ My goal is to solve complex problems through **algorithmic optimization**, movin
 ## 🛠️ Main Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,linux,neovim&theme=dark" alt="My Main Stack" />
+  <img src="https://skillicons.dev/icons?i=c,git,linux,vscode&theme=dark" alt="My Main Stack" />
 </div>
 <br>
 
 ---
 
 ## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Learning Stack" />
+</div>
+<br>
 
 * **Deep Learning Architectures** (Transformers & CNNs)
 * **System Design** for Scalable Applications
@@ -42,6 +47,7 @@ My goal is to solve complex problems through **algorithmic optimization**, movin
   <a href="https://github.com/luc4sfernandes">
     <img src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Lucas Stats" height="150" />
   </a>
+  &nbsp;
   <a href="https://github.com/luc4sfernandes">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Lucas Top Langs" height="150" />
   </a>
@@ -55,20 +61,20 @@ My goal is to solve complex problems through **algorithmic optimization**, movin
   <a href="https://www.linkedin.com/in/lucas-fernandes-da-cunha-a891413a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  
+  &nbsp;
   <a href="https://judge.beecrowd.com/pt/profile/1196989" target="_blank">
     <img src="https://img.shields.io/badge/Beecrowd-Solver-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Beecrowd Profile" />
   </a>
-
+  &nbsp;
   <a href="mailto:devlucasfer@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
+  &nbsp;
   <a href="https://www.instagram.com/dev.luc4s" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@dev.luc4s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
+
   <br /><br />
-  
+
   <img src="https://komarev.com/ghpvc/?username=luc4sfernandes&style=flat-square&color=BD93F9" alt="Profile Views" />
 </div>

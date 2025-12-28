@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
@@ -13,9 +14,9 @@
 
 ## 🚀 Perfil & Filosofia
 
-Sou um desenvolvedor focado na construção de **soluções de IA escaláveis** e **sistemas de baixa latência**. Minha abordagem combina a eficiência do **C** com a flexibilidade do **Python**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e, desde pequeno, sou fascinado por entender e compreender como as coisas são e como funcionam. 
 
-Meu objetivo é resolver problemas complexos através da **otimização algorítmica**, indo além da simples implementação para entender o *porquê* e o *como* da computação de alto desempenho.
+Movido por essa curiosidade nata, dedico-me ao máximo para desenvolver minhas habilidades técnicas e entregar **projetos robustos, eficientes e, acima de tudo, úteis para a sociedade**. Minha abordagem une a precisão da computação de baixo nível com o potencial transformador da inteligência artificial.
 
 ---
 

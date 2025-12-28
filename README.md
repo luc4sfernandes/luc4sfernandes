@@ -35,10 +35,6 @@ Meu objetivo é resolver problemas complexos através da **otimização algorít
 </div>
 <br>
 
-* **Arquiteturas de Deep Learning** (Transformers & CNNs)
-* **Design de Sistemas** para Aplicações Escaláveis
-* **Fundamentos de Computação Paralela**
-
 ---
 
 ## 📊 Estatísticas do GitHub

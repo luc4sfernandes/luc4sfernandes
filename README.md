@@ -1,13 +1,12 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python+%26+C;Focado+em+IA+e+Performance;Estudante+de+ADS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python+%26+C;Focado+em+Performance;Estudante+de+ADS" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Unindo a alta performance técnica com sistemas inteligentes.</em>
+  <em>Desenvolvendo soluções eficientes com foco em lógica e performance.</em>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e, desde pequeno, sou fascinado por entender e compreender como as coisas são e como funcionam. 
 
-Movido por essa curiosidade nata, dedico-me ao máximo para desenvolver minhas habilidades técnicas e entregar **projetos robustos, eficientes e, acima de tudo, úteis para a sociedade**. Minha abordagem une a precisão da computação de baixo nível com o potencial transformador da inteligência artificial.
+Movido por essa curiosidade nata, dedico-me ao máximo para desenvolver minhas habilidades técnicas e entregar **projetos robustos, eficientes e, acima de tudo, úteis para a sociedade**. Independentemente do desafio ou da tecnologia, estou sempre disposto a continuar aprendendo e evoluindo diante de qualquer oportunidade que surja.
 
 ---
 

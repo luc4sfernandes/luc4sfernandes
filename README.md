@@ -1,47 +1,47 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave">
-  <h1>Hello, I'm Lucas Fernandes!</h1>
+  <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Python+%26+C+Developer;Focused+on+AI+and+Performance;Systems+Analysis+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python+%26+C;Focado+em+IA+e+Performance;Estudante+de+ADS" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Bridging the gap between raw performance and intelligent systems.</em>
+  <em>Unindo a alta performance técnica com sistemas inteligentes.</em>
 </p>
 
 ---
 
-## 🚀 Profile & Philosophy
+## 🚀 Perfil & Filosofia
 
-I am a developer focused on building **scalable AI solutions** and **low-latency systems**. My approach combines the efficiency of **C** with the flexibility of **Python**.
+Sou um desenvolvedor focado na construção de **soluções de IA escaláveis** e **sistemas de baixa latência**. Minha abordagem combina a eficiência do **C** com a flexibilidade do **Python**.
 
-My goal is to solve complex problems through **algorithmic optimization**, moving beyond simple implementation to understand the *why* and *how* of high-performance computing.
+Meu objetivo é resolver problemas complexos através da **otimização algorítmica**, indo além da simples implementação para entender o *porquê* e o *como* da computação de alto desempenho.
 
 ---
 
-## 🛠️ Main Stack & Tools
+## 🛠️ Principais Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,git,linux,vscode&theme=dark" alt="My Main Stack" />
+  <img src="https://skillicons.dev/icons?i=c,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
 </div>
 <br>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Estudando Atualmente
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Learning Stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Estudando Agora" />
 </div>
 <br>
 
-* **Deep Learning Architectures** (Transformers & CNNs)
-* **System Design** for Scalable Applications
-* **Parallel Computing** fundamentals
+* **Arquiteturas de Deep Learning** (Transformers & CNNs)
+* **Design de Sistemas** para Aplicações Escaláveis
+* **Fundamentos de Computação Paralela**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/luc4sfernandes">
@@ -49,17 +49,17 @@ My goal is to solve complex problems through **algorithmic optimization**, movin
   </a>
   &nbsp;
   <a href="https://github.com/luc4sfernandes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Lucas Top Langs" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Lucas Linguagens" height="150" />
   </a>
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-fernandes-da-cunha-a891413a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   &nbsp;
   <a href="https://judge.beecrowd.com/pt/profile/1196989" target="_blank">
@@ -67,7 +67,7 @@ My goal is to solve complex problems through **algorithmic optimization**, movin
   </a>
   &nbsp;
   <a href="mailto:devlucasfer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/dev.luc4s" target="_blank">
@@ -76,5 +76,5 @@ My goal is to solve complex problems through **algorithmic optimization**, movin
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=luc4sfernandes&style=flat-square&color=BD93F9" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=luc4sfernandes&style=flat-square&color=BD93F9" alt="Visualizações do Perfil" />
 </div>

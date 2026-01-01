@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python+%26+C;Focado+em+Performance;Estudante+de+ADS" alt="Typing SVG" />
@@ -22,16 +22,7 @@ Movido por essa curiosidade nata, dedico-me ao máximo para desenvolver minhas h
 ## 🛠️ Principais Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
-</div>
-<br>
-
----
-
-## 🌱 Estudando Atualmente
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Estudando Agora" />
+  <img src="https://skillicons.dev/icons?i=c,git,linux,vim,python,mysql&theme=dark" alt="Minha Stack Principal" />
 </div>
 <br>
 

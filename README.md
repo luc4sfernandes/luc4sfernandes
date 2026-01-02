@@ -28,20 +28,6 @@ Movido por essa curiosidade nata, dedico-me ao máximo para desenvolver minhas h
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/luc4sfernandes">
-    <img src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Lucas Stats" height="150" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/luc4sfernandes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Lucas Linguagens" height="150" />
-  </a>
-</div>
-
----
-
 ## 🤝 Conecte-se Comigo
 
 <div align="center">

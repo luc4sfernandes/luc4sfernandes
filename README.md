@@ -22,7 +22,7 @@ Atualmente, foco meu aprendizado no ecossistema **Python**, desenvolvendo projet
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,git,linux,neovim&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
 </div>
 
 ---

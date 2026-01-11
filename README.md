@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python;Focado+em+Back-end;Estudante+de+ADS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python;Low+Level+%26+Linguagem+C;Estudante+de+ADS" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Transformando lógica em soluções eficientes e escaláveis.</em>
+  <em>Explorando as profundezas do software: da automação em Python ao controle da linguagem C.</em>
 </p>
 
 ---
@@ -15,14 +15,14 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia. Minha trajetória é movida pela curiosidade de entender como sistemas complexos funcionam "por baixo do capô".
 
-Atualmente, foco meu aprendizado no ecossistema **Python**, desenvolvendo projetos que unem lógica rigorosa e performance. Busco constantemente criar ferramentas que tenham impacto real e facilitem a vida dos usuários.
+Atualmente, foco meu aprendizado no ecossistema **Python** e no desenvolvimento em **baixo nível (Low Level) com C**, buscando entender a gestão de memória e a performance máxima do hardware.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
 </div>
 
 ---

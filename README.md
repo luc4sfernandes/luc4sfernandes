@@ -1,9 +1,8 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=High+Performance+Backend;Go,+C+%26+SQLite;Engenharia+de+Baixo+Nível;Minimalismo+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=High+Performance+Backend;Go,+C+%26+SQL;Engenharia+de+Baixo+Nível;Minimalismo+Digital" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,7 +18,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, mas minha abordagem
 
 Enquanto o mercado tende a empilhar abstrações pesadas, eu foco no **domínio da máquina**. Desenvolvo em um ambiente Linux minimalista (via **Vim**), o que me ensinou a valorizar cada Byte de RAM e cada ciclo de CPU.
 
-Atualmente, estou migrando minha expertise para **Go (Golang)** e **C**, criando aplicações que rodam com performance máxima até mesmo em hardwares modestos. Acredito na "Web Vanilla": **HTML5, CSS3 e SQLite** sem frameworks inchados, entregando velocidade instantânea para o usuário final.
+Atualmente, estou migrando minha expertise para **Go (Golang)** e **C**, criando aplicações de backend que rodam com performance máxima. Meu foco é arquitetura de software limpa, concorrência e bancos de dados relacionais robustos, entregando estabilidade e velocidade para o sistema.
 
 ---
 
@@ -28,14 +27,14 @@ Atualmente, estou migrando minha expertise para **Go (Golang)** e **C**, criando
 Minhas ferramentas são escolhidas com base em **performance** e **baixo overhead**:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,c,sqlite,html,css,linux,vim,bash,git,python&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=go,c,postgres,linux,vim,bash,git,python,docker&theme=dark" alt="Minha Stack Principal" />
 </div>
 
 ### ⚡ O que estou construindo agora:
 - **Backend de Alta Vazão:** APIs em **Go** focadas em concorrência e baixo consumo de memória.
-- **Frontend Purista:** Interfaces modernas e responsivas usando apenas **HTML5 & CSS3** (Zero JS overhead).
-- **Dados:** Persistência eficiente com **SQLite** (Serverless SQL).
+- **Engenharia de Dados:** Modelagem e otimização de queries em **SQL/PostgreSQL**.
 - **Baixo Nível:** Utilitários de sistema e estudos de gestão de memória em **C**.
+- **Infraestrutura:** Containers leves e ambientes reprodutíveis.
 
 ---
 

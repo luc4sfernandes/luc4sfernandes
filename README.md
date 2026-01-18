@@ -1,29 +1,41 @@
+
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python;Low+Level+%26+Linguagem+C;Estudante+de+ADS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=High+Performance+Backend;Go,+C+%26+SQLite;Engenharia+de+Baixo+Nível;Minimalismo+Digital" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Explorando as profundezas do software: da automação em Python ao controle da linguagem C.</em>
+  <em>"Software deve ser uma ferramenta afiada, não um fardo pesado."</em><br>
+  Construindo sistemas eficientes que respeitam o hardware.
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Mim e Minha Filosofia
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia. Minha trajetória é movida pela curiosidade de entender como sistemas complexos funcionam "por baixo do capô".
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, mas minha abordagem vai além do código acadêmico. Minha jornada é movida por uma missão: **combater a complexidade desnecessária**.
 
-Atualmente, foco meu aprendizado no ecossistema **Python** e no desenvolvimento em **baixo nível (Low Level) com C**, buscando entender a gestão de memória e a performance máxima do hardware.
+Enquanto o mercado tende a empilhar abstrações pesadas, eu foco no **domínio da máquina**. Desenvolvo em um ambiente Linux minimalista (via **Vim**), o que me ensinou a valorizar cada Byte de RAM e cada ciclo de CPU.
+
+Atualmente, estou migrando minha expertise para **Go (Golang)** e **C**, criando aplicações que rodam com performance máxima até mesmo em hardwares modestos. Acredito na "Web Vanilla": **HTML5, CSS3 e SQLite** sem frameworks inchados, entregando velocidade instantânea para o usuário final.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ O "Arsenal" (Tech Stack)
+
+Minhas ferramentas são escolhidas com base em **performance** e **baixo overhead**:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,linux,vscode&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=go,c,sqlite,html,css,linux,vim,bash,git,python&theme=dark" alt="Minha Stack Principal" />
 </div>
+
+### ⚡ O que estou construindo agora:
+- **Backend de Alta Vazão:** APIs em **Go** focadas em concorrência e baixo consumo de memória.
+- **Frontend Purista:** Interfaces modernas e responsivas usando apenas **HTML5 & CSS3** (Zero JS overhead).
+- **Dados:** Persistência eficiente com **SQLite** (Serverless SQL).
+- **Baixo Nível:** Utilitários de sistema e estudos de gestão de memória em **C**.
 
 ---
 

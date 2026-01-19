@@ -2,39 +2,45 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=High+Performance+Backend;Go,+C+%26+SQL;Engenharia+de+Baixo+Nível;Minimalismo+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python,+C+%26+SQL;Estudante+de+ADS;Performance+%26+Utilidade" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>"Software deve ser uma ferramenta afiada, não um fardo pesado."</em><br>
-  Construindo sistemas eficientes que respeitam o hardware.
+  <em>"Desde pequeno, a curiosidade move o meu mundo. Hoje, transformo isso em código."</em><br>
+  Construindo projetos rápidos e úteis para a sociedade.
 </p>
 
 ---
 
-## 🚀 Sobre Mim e Minha Filosofia
+## 🚀 Sobre Mim e Minha Jornada
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, mas minha abordagem vai além do código acadêmico. Minha jornada é movida por uma missão: **combater a complexidade desnecessária**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e minha relação com a tecnologia vem de berço: sempre fui aquela criança curiosa que queria entender como tudo funcionava. Agora, tenho a oportunidade de aprofundar esse conhecimento academicamente.
 
-Enquanto o mercado tende a empilhar abstrações pesadas, eu foco no **domínio da máquina**. Desenvolvo em um ambiente Linux minimalista (via **Vim**), o que me ensinou a valorizar cada Byte de RAM e cada ciclo de CPU.
+Meu foco é o desenvolvimento **Backend**. Acredito que a tecnologia não deve ser apenas complexa, mas sim funcional e benéfica. Estou estudando para construir sistemas que sejam:
+* **Bons:** Código limpo e estruturado.
+* **Rápidos:** Performance otimizada.
+* **Úteis:** Soluções reais para a sociedade.
 
-Atualmente, estou migrando minha expertise para **Go (Golang)** e **C**, criando aplicações de backend que rodam com performance máxima. Meu foco é arquitetura de software limpa, concorrência e bancos de dados relacionais robustos, entregando estabilidade e velocidade para o sistema.
+### 💻 Meu Ambiente (The Workbench)
+Não me prendo a abstrações pesadas sem necessidade. Meu ambiente de desenvolvimento é focado no **Sistema Linux**, utilizando ferramentas leves como **Geany**. Isso me permite manter o foco na lógica e no controle do que estou construindo.
+
+Atualmente, estou mergulhando fundo em **Python** para automação e backend, e **C** para entender a engenharia de baixo nível e gestão de memória.
 
 ---
 
 ## 🛠️ O "Arsenal" (Tech Stack)
 
-Minhas ferramentas são escolhidas com base em **performance** e **baixo overhead**:
+Minhas ferramentas de estudo e trabalho:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,c,postgres,linux,vim,bash,git,python,docker&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=python,c,postgres,linux,bash,git,docker&theme=dark" alt="Minha Stack Principal" />
 </div>
 
-### ⚡ O que estou construindo agora:
-- **Backend de Alta Vazão:** APIs em **Go** focadas em concorrência e baixo consumo de memória.
-- **Engenharia de Dados:** Modelagem e otimização de queries em **SQL/PostgreSQL**.
-- **Baixo Nível:** Utilitários de sistema e estudos de gestão de memória em **C**.
-- **Infraestrutura:** Containers leves e ambientes reprodutíveis.
+### ⚡ O que estou estudando/construindo:
+- **Lógica e Performance:** Estruturas de dados e algoritmos utilizando **C**.
+- **Desenvolvimento Backend:** Criação de scripts e aplicações robustas com **Python**.
+- **Dados:** Modelagem e manipulação eficiente em **Bancos de Dados (SQL)**.
+- **Ambiente:** Domínio do terminal e do ecossistema **Linux**.
 
 ---
 

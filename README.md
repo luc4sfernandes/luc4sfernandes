@@ -2,45 +2,54 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python,+C+%26+SQL;Estudante+de+ADS;Performance+%26+Utilidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%26+SQL;Estudante+de+ADS;Terminal+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>"Desde pequeno, a curiosidade move o meu mundo. Hoje, transformo isso em código."</em><br>
-  Construindo projetos rápidos e úteis para a sociedade.
+  <em>"Desde pequeno, a curiosidade move o meu mundo. Hoje, transformo essa lógica em sistemas robustos."</em><br>
+  Construindo o backend do amanhã com Java e foco em escalabilidade.
 </p>
 
 ---
 
 ## 🚀 Sobre Mim e Minha Jornada
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e minha relação com a tecnologia vem de berço: sempre fui aquela criança curiosa que queria entender como tudo funcionava. Agora, tenho a oportunidade de aprofundar esse conhecimento academicamente.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Minha relação com a tecnologia nasceu da curiosidade de entender o funcionamento das coisas, e hoje canalizo essa energia para o desenvolvimento **Backend**.
 
-Meu foco é o desenvolvimento **Backend**. Acredito que a tecnologia não deve ser apenas complexa, mas sim funcional e benéfica. Estou estudando para construir sistemas que sejam:
-* **Bons:** Código limpo e estruturado.
-* **Rápidos:** Performance otimizada.
-* **Úteis:** Soluções reais para a sociedade.
+Atualmente, estou em transição para o ecossistema **Java**, focando em me tornar um desenvolvedor **Java Junior** capaz de entregar soluções eficientes, seguras e bem estruturadas. 
+
+* **Foco Atual:** Java, Ecossistema Spring e Modelagem de Dados.
+* **Objetivo:** Integrar times de desenvolvimento onde eu possa aplicar boas práticas e evoluir como engenheiro de software.
 
 ### 💻 Meu Ambiente (The Workbench)
-Não me prendo a abstrações pesadas sem necessidade. Meu ambiente de desenvolvimento é focado no **Sistema Linux**, utilizando ferramentas leves como **Geany**. Isso me permite manter o foco na lógica e no controle do que estou construindo.
-
-Atualmente, estou mergulhando fundo em **Python** para automação e backend, e **C** para entender a engenharia de baixo nível e gestão de memória.
+Sou um entusiasta do terminal e da simplicidade eficiente. Acredito que menos distrações resultam em melhor código. Meu workflow é baseado em:
+* **Sistema:** Linux (produtividade e controle total).
+* **Editor:** `micro` (direto no terminal, sem abstrações pesadas).
+* **Interface:** CLI é minha casa.
 
 ---
 
 ## 🛠️ O "Arsenal" (Tech Stack)
 
-Minhas ferramentas de estudo e trabalho:
+As ferramentas que domino e as que estou moldando agora:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,postgres,linux,bash,git,docker&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,linux,bash,docker,git&theme=dark" alt="Minha Stack Principal" />
 </div>
 
-### ⚡ O que estou estudando/construindo:
-- **Lógica e Performance:** Estruturas de dados e algoritmos utilizando **C**.
-- **Desenvolvimento Backend:** Criação de scripts e aplicações robustas com **Python**.
-- **Dados:** Modelagem e manipulação eficiente em **Bancos de Dados (SQL)**.
-- **Ambiente:** Domínio do terminal e do ecossistema **Linux**.
+### ⚡ O que estou construindo/estudando agora:
+- **Java Web:** Explorando frameworks para construção de APIs RESTful.
+- **Bancos de Dados:** Modelagem SQL, integridade de dados e performance.
+- **Infra:** Docker para containerização e automação de ambientes Linux.
+
+---
+
+## 📈 Atividade e Evolução
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
 
 ---
 

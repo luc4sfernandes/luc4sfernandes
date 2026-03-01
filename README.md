@@ -44,15 +44,6 @@ As ferramentas que domino e as que estou moldando agora:
 
 ---
 
-## 📈 Atividade e Evolução
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Vamos Conversar?
 
 <div align="center">

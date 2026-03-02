@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%26+SQL;Estudante+de+ADS;Terminal+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%26+SQL;Estudante+de+ADS;Neovim+%26+Terminal+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <em>"Desde pequeno, a curiosidade move o meu mundo. Hoje, transformo essa lógica em sistemas robustos."</em><br>
-  Construindo o backend do amanhã com Java e foco em escalabilidade.
+  Construindo o backend do amanhã com foco em eficiência, automação e escalabilidade.
 </p>
 
 ---
@@ -16,15 +16,15 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Minha relação com a tecnologia nasceu da curiosidade de entender o funcionamento das coisas, e hoje canalizo essa energia para o desenvolvimento **Backend**.
 
-Atualmente, estou em transição para o ecossistema **Java**, focando em me tornar um desenvolvedor **Java Junior** capaz de entregar soluções eficientes, seguras e bem estruturadas. 
+Busco entregar soluções eficientes, seguras e bem estruturadas, sempre prezando por um código limpo e uma arquitetura sólida.
 
-* **Foco Atual:** Java, Ecossistema Spring e Modelagem de Dados.
+* **Foco Atual:** Python, Modelagem de Dados e Automação.
 * **Objetivo:** Integrar times de desenvolvimento onde eu possa aplicar boas práticas e evoluir como engenheiro de software.
 
 ### 💻 Meu Ambiente (The Workbench)
 Sou um entusiasta do terminal e da simplicidade eficiente. Acredito que menos distrações resultam em melhor código. Meu workflow é baseado em:
 * **Sistema:** Linux (produtividade e controle total).
-* **Editor:** `micro` (direto no terminal, sem abstrações pesadas).
+* **Editor:** `Neovim` (modal editing para máxima velocidade e eficiência).
 * **Interface:** CLI é minha casa.
 
 ---
@@ -34,11 +34,11 @@ Sou um entusiasta do terminal e da simplicidade eficiente. Acredito que menos di
 As ferramentas que domino e as que estou moldando agora:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,linux,bash,docker,git&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,bash,docker,git,neovim&theme=dark" alt="Minha Stack Principal" />
 </div>
 
 ### ⚡ O que estou construindo/estudando agora:
-- **Java Web:** Explorando frameworks para construção de APIs RESTful.
+- **Python Backend:** Construção de APIs robustas e scripts de automação.
 - **Bancos de Dados:** Modelagem SQL, integridade de dados e performance.
 - **Infra:** Docker para containerização e automação de ambientes Linux.
 

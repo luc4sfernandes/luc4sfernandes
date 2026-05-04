@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%26+SQL;Estudante+de+ADS;Neovim+%26+Terminal+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -12,35 +11,50 @@
 
 ---
 
-## 🚀 Sobre Mim e Minha Jornada
+## 🚀 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Minha relação com a tecnologia nasceu da curiosidade de entender o funcionamento das coisas, e hoje canalizo essa energia para o desenvolvimento **Backend**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em desenvolvimento **Backend**. Minha relação com a tecnologia nasceu da curiosidade de entender como as coisas funcionam por dentro — e hoje canalizo essa energia para construir soluções eficientes, seguras e bem estruturadas.
 
-Busco entregar soluções eficientes, seguras e bem estruturadas, sempre prezando por um código limpo e uma arquitetura sólida.
+Acredito em código limpo, arquitetura sólida e na evolução contínua como engenheiro de software.
 
-* **Foco Atual:** Python, Modelagem de Dados e Automação.
-* **Objetivo:** Integrar times de desenvolvimento onde eu possa aplicar boas práticas e evoluir como engenheiro de software.
+- 🎯 **Foco atual:** Java, Spring Boot + Hibernate/JPA e Banco de Dados
+- 🐍 **Base sólida:** Python para scripts e automação
+- 🏗️ **Objetivo:** Integrar times de desenvolvimento aplicando boas práticas e evoluindo como dev Backend
 
-### 💻 Meu Ambiente (The Workbench)
-Sou um entusiasta do terminal e da simplicidade eficiente. Acredito que menos distrações resultam em melhor código. Meu workflow é baseado em:
-* **Sistema:** Linux (produtividade e controle total).
-* **Editor:** `Neovim` (modal editing para máxima velocidade e eficiência).
-* **Interface:** CLI é minha casa.
+### 💻 Meu Ambiente
+
+Sou entusiasta do terminal e da simplicidade eficiente — menos distração, melhor código.
+
+- **SO:** Linux + Windows (dual boot)
+- **Editor:** `Neovim` — modal editing para máxima velocidade
+- **Interface:** CLI é minha casa
 
 ---
 
-## 🛠️ O "Arsenal" (Tech Stack)
+## 🛠️ Tech Stack
 
-As ferramentas que domino e as que estou moldando agora:
+### ✅ Ferramentas que já uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,bash,docker,git,neovim&theme=dark" alt="Minha Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=python,git,linux,bash,neovim&theme=dark" alt="Stack atual" />
 </div>
 
-### ⚡ O que estou construindo/estudando agora:
-- **Python Backend:** Construção de APIs robustas e scripts de automação.
-- **Bancos de Dados:** Modelagem SQL, integridade de dados e performance.
-- **Infra:** Docker para containerização e automação de ambientes Linux.
+### 📚 Aprendendo agora
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres&theme=dark" alt="Aprendendo" />
+</div>
+
+> Atualmente mergulhado em **Java + Spring Boot + Hibernate/JPA** e construindo uma base sólida em **Banco de Dados Relacional**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
@@ -48,7 +62,7 @@ As ferramentas que domino e as que estou moldando agora:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-fernandes-da-cunha-a891413a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:devlucasfer@gmail.com">

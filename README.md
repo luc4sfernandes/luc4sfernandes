@@ -52,8 +52,12 @@ Sou entusiasta do terminal e da simplicidade eficiente — menos distração, me
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sfernandes&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=luc4sfernandes&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luc4sfernandes&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc4sfernandes&theme=dracula" alt="Linguagens por Repositório" />
 </div>
 
 ---

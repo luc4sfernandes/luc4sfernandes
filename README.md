@@ -1,44 +1,43 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%26+SQL;Estudante+de+ADS;micro+%26+Terminal+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Software+Developer;C+%26+Python;Estudante+de+ADS;micro+%26+Terminal+Enthusiast" alt="Typing SVG" />
 </div>
+
 <p align="center">
-  <em>"Desde pequeno, a curiosidade move o meu mundo. Hoje, transformo essa lógica em sistemas robustos."</em><br>
-  Construindo o backend do amanhã com foco em eficiência, automação e escalabilidade.
+  <em>"Desde pequeno, a curiosidade move o meu mundo. Hoje, transformo essa lógica em sistemas eficientes."</em><br>
+  Explorando as profundezas do software com foco em performance e simplicidade.
 </p>
 
-Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento Backend.
-Minha relação com a tecnologia nasceu da curiosidade de entender como as coisas funcionam por dentro — e hoje canalizo essa energia para construir soluções eficientes, seguras e bem estruturadas.
-Acredito em código limpo, arquitetura sólida e na evolução contínua como engenheiro de software.
+## Sobre Mim
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento de baixo nível e sistemas.
+Minha relação com a tecnologia nasceu da curiosidade de entender como as coisas funcionam por dentro — e hoje canalizo essa energia para construir soluções diretas e bem estruturadas.
+Acredito na eficiência do terminal e na evolução contínua através da prática constante.
 
-Foco atual: Java, Spring Boot + Hibernate/JPA e Banco de Dados
-Base sólida: Python e C para lógica e automação
-Objetivo: Integrar times de desenvolvimento aplicando boas práticas e crescendo como dev Backend
+*   **Foco atual:** Aperfeiçoamento em C/C++.
+*   **Base sólida:** C, Python e Git para automação e controle de versão.
+*   **Objetivo:** Desenvolver software de alta performance e contribuir para projetos robustos.
 
-Meu Ambiente
-Sou entusiasta do terminal e da simplicidade eficiente — menos distração, melhor código.
+## Meu Ambiente
+Sou entusiasta do terminal e da simplicidade — menos distração, melhor código.
 
-SO: Linux + Windows (dual boot)
-Editor: micro — terminal-based, simples e rápido
-Interface: CLI é minha casa
+*   **SO:** Linux (Apenas)
+*   **Editor:** micro — terminal-based, simples e rápido
+*   **Interface:** CLI é minha casa
 
+## Tech Stack
 
-Tech Stack
-Ferramentas que já uso
+### Ferramentas que já uso
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,git,linux,bash&theme=dark" alt="Stack atual" />
 </div>
-Aprendendo agora
+
+### Aprendendo agora
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres&theme=dark" alt="Aprendendo" />
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="Aprendendo" />
 </div>
 
-Atualmente focado em Java + Spring Boot + Hibernate/JPA e construindo uma base sólida em Banco de Dados Relacional.
-
-
-GitHub Stats
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=luc4sfernandes&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -47,7 +46,7 @@ GitHub Stats
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc4sfernandes&theme=dracula" alt="Linguagens por Repositório" />
 </div>
 
-Vamos Conversar?
+## Vamos Conversar?
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-fernandes-da-cunha-a891413a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

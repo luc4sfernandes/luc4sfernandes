@@ -1,22 +1,22 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hand Wave">
   <h1>Olá, eu sou o Lucas Fernandes!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Software+Developer;C+%26+Python;Estudante+de+ADS;micro+%26+Terminal+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Software+Developer;Java+%26+Python;Estudante+de+ADS;micro+%26+Terminal+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <em>"Desde pequeno, a curiosidade move o meu mundo. Hoje, transformo essa lógica em sistemas eficientes."</em><br>
-  Explorando as profundezas do software com foco em performance e simplicidade.
+  Explorando a arquitetura de software com foco em robustez, performance e simplicidade.
 </p>
 
 ## Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento de baixo nível e sistemas.
-Minha relação com a tecnologia nasceu da curiosidade de entender como as coisas funcionam por dentro — e hoje canalizo essa energia para construir soluções diretas e bem estruturadas.
-Acredito na eficiência do terminal e na evolução contínua através da prática constante.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em construir soluções eficientes e entender a fundo como as tecnologias operam por baixo dos panos. 
+Minha relação com o software nasceu da curiosidade de desvendar o que acontece por dentro das aplicações — hoje canalizo essa energia para o ecossistema Java e o desenvolvimento de sistemas bem estruturados.
+Acredito na agilidade do terminal e na evolução contínua através do código limpo e da prática constante.
 
-*   **Foco atual:** Aperfeiçoamento em C/C++.
-*   **Base sólida:** C, Python e Git para automação e controle de versão.
-*   **Objetivo:** Desenvolver software de alta performance e contribuir para projetos robustos.
+*   **Foco atual:** Aperfeiçoamento em Java e arquitetura de sistemas robustos.
+*   **Base sólida:** C, Python e Git para automação, lógica e controle de versão.
+*   **Objetivo:** Desenvolver software de alta escalabilidade e contribuir para projetos robustos no mercado.
 
 ## Meu Ambiente
 Sou entusiasta do terminal e da simplicidade — menos distração, melhor código.
@@ -27,14 +27,14 @@ Sou entusiasta do terminal e da simplicidade — menos distração, melhor códi
 
 ## Tech Stack
 
-### Ferramentas que já uso
+### Ferramentas que já utilizo no dia a dia
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,linux,bash&theme=dark" alt="Stack atual" />
+  <img src="https://skillicons.dev/icons?i=c,python,git,linux,bash&theme=dark" alt="Stack atual" />
 </div>
 
-### Aprendendo agora
+### Focando e aprendendo agora
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="Aprendendo" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Aprendendo" />
 </div>
 
 ## GitHub Stats

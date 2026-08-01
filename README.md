@@ -1,33 +1,28 @@
 # Lucas Fernandes
-
-> "Transformando lógica em sistemas eficientes."
-Construindo uma base sólida em arquitetura de software com foco em robustez, performance e código limpo.
+**Desenvolvedor Backend Java**
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** (4º semestre, formatura em 2027). Minha trajetória na tecnologia nasceu da curiosidade de entender como as coisas funcionam "por baixo dos panos", o que me deu uma base sólida em lógica e resolução de problemas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** (4º semestre) e busco minha primeira oportunidade como Desenvolvedor Júnior. 
 
-Atualmente, foco meus estudos no desenvolvimento **Backend**, aprofundando-me no ecossistema **Java** para construir aplicações robustas e escaláveis.
-
-* **Foco atual:** Java, POO e modelagem de Bancos de Dados Relacionais (SQL/PostgreSQL).
-* **Próximos passos:** Spring Boot e desenvolvimento de APIs RESTful.
-* **Base:** C, Python, Bash e controle de versão com Git.
+Meu foco é a construção de APIs e sistemas backend robustos, organizados e eficientes. Estudo e aplico diariamente os conceitos fundamentais de arquitetura de software, focado em resolver problemas reais através de código limpo.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
-* **Linguagens:** Java, C, Python
-* **Frameworks & Bibliotecas:** Spring Boot
-* **Bancos de Dados:** PostgreSQL, SQL
-* **Ferramentas & Ambiente:** Git, Linux, Bash
+Onde concentro minha especialização e utilizo no dia a dia:
 
+* **Ecossistema:** Java, Spring Boot
+* **Bancos de Dados:** SQL, PostgreSQL
+* **Infraestrutura & Ferramentas:** Docker, Git, Linux (Bash)
+  
 ---
 
 ## 📬 Contato
 
 * **LinkedIn:** [Lucas Fernandes da Cunha](https://www.linkedin.com/in/lucas-fernandes-da-cunha-a891413a0/)
-* **E-mail:** devlucasfer@gmail.com
+* **E-mail:** [devlucasfer@gmail.com](mailto:devlucasfer@gmail.com)
 * **Instagram:** [@dev.luc4s](https://www.instagram.com/dev.luc4s)

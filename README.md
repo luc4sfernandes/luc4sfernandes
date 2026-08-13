@@ -23,6 +23,9 @@ Onde concentro minha especialização e utilizo no dia a dia:
 
 ## 📬 Contato
 
-* **LinkedIn:** [Lucas Fernandes da Cunha](https://www.linkedin.com/in/lucas-fernandes-da-cunha-a891413a0/)
-* **E-mail:** [devlucasfer@gmail.com](mailto:devlucasfer@gmail.com)
+* **LinkedIn:** [Lucas Fernandes da Cunha](https://www.linkedin.com/feed/)
+* **GitHub:** [luc4sfernandes](https://github.com/luc4sfernandes)
 * **Instagram:** [@dev.luc4s](https://www.instagram.com/dev.luc4s)
+* **Beecrowd:** [Perfil](https://judge.beecrowd.com/pt/profile/1196989)
+* **X (Twitter):** [@devluc4s](https://x.com/devluc4s)
+* **E-mail:** [devlucasfer@gmail.com](mailto:devlucasfer@gmail.com)

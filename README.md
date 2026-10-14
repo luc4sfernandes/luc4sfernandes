@@ -1,20 +1,19 @@
 # Lucas Fernandes
-
-Desenvolvedor Backend Java construindo APIs REST com Spring Boot — buscando vaga Júnior
-
----
-
-## Sobre
-
-Estudante de ADS (4º semestre, formatura em 2027). Foco em backend Java com
-Spring Boot, persistência SQL/PostgreSQL e containerização com Docker.
-Aplicando POO, Clean Code e arquitetura em camadas no dia a dia.
-
-**Buscando minha primeira oportunidade como Desenvolvedor Backend Júnior.**
+**Desenvolvedor Backend Java | Spring Boot | APIs RESTful | PostgreSQL | Docker**
 
 ---
 
-## Stack
+## 👨‍💻 Sobre Mim
+
+Estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre, formatura em 2027),
+buscando minha primeira oportunidade como Desenvolvedor Backend Júnior.
+
+Foco em construir APIs RESTful robustas e organizadas com Spring Boot,
+aplicando Clean Code, POO e arquitetura em camadas no dia a dia.
+
+---
+
+## 🛠️ Stack Tecnológica
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -24,33 +23,30 @@ Aplicando POO, Clean Code e arquitetura em camadas no dia a dia.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## Trajetória de Aprendizado
-
-| Tecnologia | Status |
+| Camada | Tecnologias |
 |---|---|
-| Spring Boot + REST APIs | Base sólida |
-| SQL + PostgreSQL + Docker | Uso no dia a dia |
-| Hibernate / Spring Data JPA | Em aprendizado |
-| Testes unitários — JUnit + Mockito | Próximo passo |
-| Spring Security + JWT | Planejado |
----
-
-## Projeto em andamento
-
-**[BaseJava](https://github.com/luc4sfernandes/BaseJava)** — evolução prática
-em Java Backend: POO, SQL/PostgreSQL e APIs REST com Spring Boot.
+| Backend | Java, Spring Boot, REST APIs |
+| Banco de Dados | SQL, PostgreSQL, MySQL |
+| Infraestrutura | Docker, Git, Linux, Bash |
+| Fundamentos | POO, Estruturas de Dados, Clean Code |
 
 ---
 
-## Stats
+## 📂 Projeto Principal
+
+**[BaseJava](https://github.com/luc4sfernandes/BaseJava)** — Repositório de evolução
+prática em Java Backend: fundamentos de POO, persistência com SQL/PostgreSQL
+e construção de APIs REST com Spring Boot.
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## Contato
+## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dev-br/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasfer@gmail.com)

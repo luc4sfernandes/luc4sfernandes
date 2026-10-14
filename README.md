@@ -1,19 +1,20 @@
 # Lucas Fernandes
-**Desenvolvedor Backend Java | Spring Boot | APIs RESTful | PostgreSQL | Docker**
+
+Desenvolvedor Backend Java | Spring Boot | APIs REST | Buscando vaga Júnior
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre, formatura em 2027),
-buscando minha primeira oportunidade como Desenvolvedor Backend Júnior.
+Estudante de ADS (4º semestre, formatura em 2027). Foco em backend Java com
+Spring Boot, persistência SQL/PostgreSQL e ambientes com Docker.
+Aplicando POO, Clean Code e arquitetura em camadas no dia a dia.
 
-Foco em construir APIs RESTful robustas e organizadas com Spring Boot,
-aplicando Clean Code, POO e arquitetura em camadas no dia a dia.
+**Aberto a oportunidades de Desenvolvedor Backend Júnior.**
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -23,30 +24,22 @@ aplicando Clean Code, POO e arquitetura em camadas no dia a dia.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-| Camada | Tecnologias |
-|---|---|
-| Backend | Java, Spring Boot, REST APIs |
-| Banco de Dados | SQL, PostgreSQL, MySQL |
-| Infraestrutura | Docker, Git, Linux, Bash |
-| Fundamentos | POO, Estruturas de Dados, Clean Code |
+---
+
+## Projeto em andamento
+
+**[BaseJava](https://github.com/luc4sfernandes/BaseJava)** — evolução prática
+em Java Backend: POO, SQL/PostgreSQL e APIs REST com Spring Boot.
 
 ---
 
-## 📂 Projeto Principal
-
-**[BaseJava](https://github.com/luc4sfernandes/BaseJava)** — Repositório de evolução
-prática em Java Backend: fundamentos de POO, persistência com SQL/PostgreSQL
-e construção de APIs REST com Spring Boot.
-
----
-
-## 📊 GitHub Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📬 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasfer@gmail.com)

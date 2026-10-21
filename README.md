@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 💻 Sobre Mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre, formatura em 2027),
 buscando minha primeira oportunidade como Desenvolvedor Backend Júnior.
@@ -31,7 +31,7 @@ aplicando Clean Code, POO e arquitetura em camadas no dia a dia.
 
 ---
 
-## 📂 Projetos
+## 📁 Projetos
 
 **[BaseJava](https://github.com/luc4sfernandes/BaseJava)** — Repositório de evolução
 prática em Java Backend: fundamentos de POO, persistência com SQL/MySQL

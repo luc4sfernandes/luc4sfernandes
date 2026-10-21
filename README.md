@@ -31,15 +31,14 @@ aplicando Clean Code, POO e arquitetura em camadas no dia a dia.
 
 ---
 
-## 📁 Projetos
+## 📦 Projetos
 
 **[BaseJava](https://github.com/luc4sfernandes/BaseJava)** — Repositório de evolução
 prática em Java Backend: fundamentos de POO, persistência com SQL/MySQL
 e construção de APIs REST com Spring Boot.
 
 **[Minerva](https://github.com/luc4sfernandes/Minerva)** — Motor de xadrez rudimentar escrito em Java,
-desenvolvido como projeto pessoal de aprendizado. Sem escopo fechado —
-o projeto cresce conforme o conhecimento cresce.
+desenvolvido como projeto pessoal de aprendizado. 
 
 ---
 

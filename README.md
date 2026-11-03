@@ -44,7 +44,7 @@ desenvolvido como projeto pessoal de aprendizado.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luc4sfernandes&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 

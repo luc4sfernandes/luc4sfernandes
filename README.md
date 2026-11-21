@@ -5,7 +5,7 @@
 
 ## 💻 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre, formatura em 2027),
+Estudante de **Análise e Desenvolvimento de Sistemas** (5º semestre, formatura em 2027),
 buscando minha primeira oportunidade como Desenvolvedor Backend Júnior.
 
 Foco em construir APIs RESTful robustas e organizadas com Spring Boot,
@@ -39,6 +39,8 @@ e construção de APIs REST com Spring Boot.
 
 **[Minerva](https://github.com/luc4sfernandes/Minerva)** — Motor de xadrez rudimentar escrito em Java,
 desenvolvido como projeto pessoal de aprendizado. 
+
+**[Análise de Extratos Bancários](https://github.com/luc4sfernandes/analise-extratos-bancarios)** — Software em desenvolvimento para automatizar a leitura, organização e análise de extratos bancários, reduzindo tarefas manuais.
 
 ---
 

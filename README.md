@@ -37,9 +37,6 @@ aplicando Clean Code, POO e arquitetura em camadas no dia a dia.
 prática em Java Backend: fundamentos de POO, persistência com SQL/MySQL
 e construção de APIs REST com Spring Boot.
 
-**[Minerva](https://github.com/luc4sfernandes/Minerva)** — Motor de xadrez rudimentar escrito em Java,
-desenvolvido como projeto pessoal de aprendizado. 
-
 **[Análise de Extratos Bancários](https://github.com/luc4sfernandes/analise-extratos-bancarios)** — Software em desenvolvimento para automatizar a leitura, organização e análise de extratos bancários, reduzindo tarefas manuais.
 
 ---
